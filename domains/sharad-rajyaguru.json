@@ -1,13 +1,10 @@
 {
     "owner": {
-        "username": "sharad-rajyaguru",
-        "email": "sharad-rajyaguru@acquaintsofttech.com"
+        "username": "s07114587-ops",
+        "email": "sgdev@netc.fr"
     },
-    "target": {
-        "CNAME": {
-            "name": "sharad-rajyaguru",
-            "value": "sharad-rajyaguru.github.io"
-        }
-    },
+    "type": "CNAME",
+    "target": "learning-sg.vercel.app",
     "proxied": false
 }
+
